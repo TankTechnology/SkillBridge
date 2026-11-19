@@ -1,0 +1,178 @@
+{
+  "errors": [],
+  "file_count": 28,
+  "files": {
+    "README.md": {
+      "bytes": 826,
+      "hygiene_hits": [],
+      "rows": null,
+      "sha256": "769df77f3b100c375e4079092173c8c3b8c99f6f2c1aadc284506d28d2cf07ba"
+    },
+    "repair/three_os_repair_cohort_20260627.jsonl": {
+      "bytes": 260702,
+      "hygiene_hits": [],
+      "rows": 205,
+      "sha256": "f44961c74cdd6b9980ba59a78630bd4b36c45fe1c14e1d5d5da2be47e38f6077"
+    },
+    "replay/direct_agent/direct_agent_eval_plan.jsonl": {
+      "bytes": 73856,
+      "hygiene_hits": [],
+      "rows": 175,
+      "sha256": "3b07e23f7f688ea9403c652440ff2f5187dde68989e9423f8fd8b988206feeb4"
+    },
+    "replay/direct_agent/direct_agent_repair_jobs.jsonl": {
+      "bytes": 388304,
+      "hygiene_hits": [],
+      "rows": 152,
+      "sha256": "3e4f6118e5869370520846ccfc5b031ddc636b9170e4ec8d969ca0417f12afbb"
+    },
+    "replay/direct_agent/direct_agent_target_cells.jsonl": {
+      "bytes": 94849,
+      "hygiene_hits": [],
+      "rows": 175,
+      "sha256": "1b0d846cec83634a20aa3cdef5ed4afa7773ae713c73db998e1eec7c3ce60871"
+    },
+    "replay/direct_agent/direct_agent_task_manifest.jsonl": {
+      "bytes": 634132,
+      "hygiene_hits": [],
+      "rows": 1297,
+      "sha256": "47bc4c77ab28e7fcc2a34e8af9dd45e40305525cadebeb18b2ec6ef48b19707b"
+    },
+    "replay/direct_agent/linux_direct_agent_comparison_20260701.jsonl": {
+      "bytes": 24248,
+      "hygiene_hits": [],
+      "rows": 42,
+      "sha256": "6ca8b556644ee16da093bdd0c2abe70f39a2f521895b1213cb22ca1e63576213"
+    },
+    "replay/direct_agent/macos_direct_agent_task_metrics.jsonl": {
+      "bytes": 260777,
+      "hygiene_hits": [],
+      "rows": 180,
+      "sha256": "cab3865dcd980776780d47a84a60b64f7c5c2586838945ab273cd98d98c8e61e"
+    },
+    "replay/direct_agent/windows_direct_agent_task_metrics.jsonl": {
+      "bytes": 1260968,
+      "hygiene_hits": [],
+      "rows": 875,
+      "sha256": "92bb87c0e1c4ba5fdb9163c714521c1d45b5891e7b9b7f188dc15066e165dbec"
+    },
+    "replay/rq2/linux_repair_final_153_20260630.jsonl": {
+      "bytes": 70947,
+      "hygiene_hits": [],
+      "rows": 153,
+      "sha256": "61673da4ddb3a189b35a8629057b3a0e26e526e248d8746618732eda381319bf"
+    },
+    "replay/rq2/macos_before_after.csv": {
+      "bytes": 43187,
+      "hygiene_hits": [],
+      "rows": 153,
+      "sha256": "70b9d148d0efd23710a7c9c9a6beddf944d9a1685b36202765e08c2758e2f9e0"
+    },
+    "replay/rq2/repair_effect_by_skill.csv": {
+      "bytes": 94707,
+      "hygiene_hits": [],
+      "rows": 306,
+      "sha256": "4828085744c1063eb39d570a4038fb10ec1a315fda08f9082d53d80908751f38"
+    },
+    "replay/rq2/windows_before_after.csv": {
+      "bytes": 42803,
+      "hygiene_hits": [],
+      "rows": 153,
+      "sha256": "4b1c6ea778e348098ec96b1d2f387742257bcf6afb80b8b56ea8b951ed665013"
+    },
+    "replay/rq3/linux_task_execution_matrix.csv": {
+      "bytes": 71881,
+      "hygiene_hits": [],
+      "rows": 162,
+      "sha256": "362c415e22336b0dd35b63c827564f2a4cf9b69c1eee747cc9399bf8cd1a3b42"
+    },
+    "replay/rq3/linux_task_manifest_unique.jsonl": {
+      "bytes": 54888,
+      "hygiene_hits": [],
+      "rows": 132,
+      "sha256": "a0a42be6f5e7469b58c09561d61636d6ddea09944c198dd567897ce6c8cac900"
+    },
+    "replay/rq3/macos_rq3_exec_task_metrics.jsonl": {
+      "bytes": 954372,
+      "hygiene_hits": [],
+      "rows": 637,
+      "sha256": "d5d2b1af3dc83618aeaaccbf3199d9d9f7656ce23bc26ba80d9999d2b4d9c838"
+    },
+    "replay/rq3/rq3_repair_version_manifest.jsonl": {
+      "bytes": 508158,
+      "hygiene_hits": [],
+      "rows": 547,
+      "sha256": "6016f086ec8fab65f6f44d8f409f34e6ce4a1bf6cc629d9c5d54d267da9f1b2b"
+    },
+    "replay/rq3/rq3_task_manifest.jsonl": {
+      "bytes": 617271,
+      "hygiene_hits": [],
+      "rows": 1297,
+      "sha256": "5747b0ea08756c8cfdd38a5ce7dfa010d0bd084e4937ac9ee1b78f4a44dcf9ec"
+    },
+    "replay/rq3/rq3_untested_round_replay_plan_release.jsonl": {
+      "bytes": 57946,
+      "hygiene_hits": [],
+      "rows": 93,
+      "sha256": "b3c1d75c7bac662ca969c7fd80469a53c44402905db6791da708d5a041dbeaa2"
+    },
+    "replay/rq3/windows_rq3_exec_task_metrics.jsonl": {
+      "bytes": 927852,
+      "hygiene_hits": [],
+      "rows": 622,
+      "sha256": "1c406f5d2aae773511c4fd57f7b2d0aed9188b9062e716893405644ce9e35840"
+    },
+    "review/strict_os_issue_labels_20260627.jsonl": {
+      "bytes": 201097,
+      "hygiene_hits": [],
+      "rows": 207,
+      "sha256": "d5734298afbffa23037ea6e484a6f8a3ef93889975716503780800f6450d6547"
+    },
+    "review/three_os_clean_os_issue_inventory_20260626_v2.jsonl": {
+      "bytes": 215473,
+      "hygiene_hits": [],
+      "rows": 274,
+      "sha256": "ee7bda6de54babcebb1cbbea97396918c905c452104caf80db9a8bab97dc6f93"
+    },
+    "review/three_os_common_os_issue_inventory.jsonl": {
+      "bytes": 186953,
+      "hygiene_hits": [],
+      "rows": 212,
+      "sha256": "8b8704694a71551d03a0f521c1c2029a17ea8599c8bc24711323071b41d5ad2f"
+    },
+    "review/three_os_common_reviewed_labels.jsonl": {
+      "bytes": 3813032,
+      "hygiene_hits": [],
+      "rows": 1330,
+      "sha256": "639f389d26fe64c290ae6e1a2418312fb76e406d3076455612daee3dafa03ac5"
+    },
+    "review/three_os_common_strict_non_package_os_issues.jsonl": {
+      "bytes": 152806,
+      "hygiene_hits": [],
+      "rows": 174,
+      "sha256": "3546f279ec1584f9fd61db1add3601787ed87278b356157de7b62e2408c3d02d"
+    },
+    "trajectory/three_os_common_dynamic_observations.jsonl": {
+      "bytes": 3936191,
+      "hygiene_hits": [],
+      "rows": 3505,
+      "sha256": "7c6ad7e639da2823789049f06cc27f2c196227a390c9378f0b6b4be9f3621bc8"
+    },
+    "trajectory/three_os_common_family_index.jsonl": {
+      "bytes": 645193,
+      "hygiene_hits": [],
+      "rows": 1090,
+      "sha256": "89b2f3e117b53a7e3d248485043dadc7353ba860a52ae4cd0b55c751d5bbe04b"
+    },
+    "trajectory/three_os_common_family_matrix.jsonl": {
+      "bytes": 1049188,
+      "hygiene_hits": [],
+      "rows": 1090,
+      "sha256": "d8831e30b6c9c81b50bd5fac9d4f2b8d03c79cbd2939e111f77065033e715aae"
+    }
+  },
+  "hygiene_hits": [],
+  "root": "data/raw",
+  "status": "pass",
+  "total_bytes": 16642607
+}
